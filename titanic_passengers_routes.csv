@@ -1,1310 +1,745 @@
-class,survived,boarding,destination
-1,yes,Southampton,"St Louis, MO"
-1,yes,Southampton,"Montreal, PQ / Chesterville, ON"
-1,no,Southampton,"Montreal, PQ / Chesterville, ON"
-1,no,Southampton,"Montreal, PQ / Chesterville, ON"
-1,no,Southampton,"Montreal, PQ / Chesterville, ON"
-1,yes,Southampton,"New York, NY"
-1,yes,Southampton,"Hudson, NY"
-1,no,Southampton,"Belfast, NI"
-1,yes,Southampton,"Bayside, Queens, NY"
-1,no,Cherbourg,"Montevideo, Uruguay"
-1,no,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"Paris, France"
-1,yes,Southampton,
-1,yes,Southampton,"Hessle, Yorks"
-1,no,Southampton,"New York, NY"
-1,no,Cherbourg,"Montreal, PQ"
-1,yes,Cherbourg,"Montreal, PQ"
-1,yes,Cherbourg,
-1,no,Cherbourg,"Winnipeg, MN"
-1,yes,Southampton,"New York, NY"
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,
-1,yes,Southampton,
-1,no,Cherbourg,"San Francisco, CA"
-1,yes,Cherbourg,"Dowagiac, MI"
-1,yes,Cherbourg,"Dowagiac, MI"
-1,yes,Southampton,
-1,yes,Southampton,"Stockholm, Sweden / Washington, DC"
-1,no,Southampton,"Trenton, NJ"
-1,yes,Cherbourg,"Glen Ridge, NJ"
-1,yes,Southampton,"Youngstown, OH"
-1,yes,Southampton,"Birkdale, England Cleveland, Ohio"
-1,no,Southampton,"London / Winnipeg, MB"
-1,yes,Cherbourg,"Cooperstown, NY"
-1,yes,Southampton,"St Leonards-on-Sea, England Ohio"
-1,yes,Southampton,"Los Angeles, CA"
-1,no,Southampton,"Pomeroy, WA"
-1,no,Cherbourg,"Omaha, NE"
-1,no,Cherbourg,"Philadelphia, PA"
-1,yes,Cherbourg,"Denver, CO"
-1,yes,Southampton,"Belmont, MA"
-1,yes,Cherbourg,"Philadelphia, PA"
-1,yes,Cherbourg,
-1,no,Southampton,"Washington, DC"
-1,no,Southampton,
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,"Washington, DC"
-1,yes,Cherbourg,"Austria-Hungary / Germantown, Philadelphia, PA"
-1,yes,Cherbourg,"Germantown, Philadelphia, PA"
-1,no,Southampton,"New York, NY"
-1,no,Southampton,"Montevideo, Uruguay"
-1,no,Southampton,"Montevideo, Uruguay"
-1,yes,Southampton,"Bryn Mawr, PA"
-1,yes,Southampton,"Bryn Mawr, PA"
-1,yes,Southampton,"Bryn Mawr, PA"
-1,yes,Southampton,"Bryn Mawr, PA"
-1,no,Southampton,"Ascot, Berkshire / Rochester, NY"
-1,yes,Cherbourg,"New York, NY"
-1,no,Southampton,"Little Onn Hall, Staffs"
-1,yes,Southampton,"Little Onn Hall, Staffs"
-1,no,Southampton,"Amenia, ND"
-1,yes,Southampton,"Amenia, ND"
-1,yes,Southampton,"New York, NY / Ithaca, NY"
-1,yes,Southampton,"New York, NY / Ithaca, NY"
-1,yes,Cherbourg,
-1,yes,Southampton,"London, England"
-1,yes,Cherbourg,"Paris, France"
-1,yes,Southampton,"St Leonards-on-Sea, England Ohio"
-1,no,Southampton,"Liverpool, England / Belfast"
-1,no,Cherbourg,"Los Angeles, CA"
-1,yes,Cherbourg,"Los Angeles, CA"
-1,yes,Southampton,
-1,no,Southampton,"Stoughton, MA"
-1,no,Southampton,"Victoria, BC"
-1,yes,Cherbourg,"Lakewood, NJ"
-1,no,Cherbourg,"Lakewood, NJ"
-1,yes,Cherbourg,"Lakewood, NJ"
-1,yes,Southampton,"New York, NY"
-1,no,Southampton,"Roachdale, IN"
-1,no,Southampton,"Milwaukee, WI"
-1,yes,Southampton,"Milwaukee, WI"
-1,yes,Southampton,"Milwaukee, WI"
-1,no,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Southampton,"Lima, Peru"
-1,yes,Southampton,"Philadelphia, PA"
-1,yes,Southampton,
-1,no,Southampton,"Montreal, PQ"
-1,yes,Southampton,"Montreal, PQ"
-1,yes,Southampton,"Calgary, AB"
-1,yes,Southampton,"Calgary, AB"
-1,yes,Southampton,"San Francisco, CA"
-1,yes,Southampton,"San Francisco, CA"
-1,yes,Southampton,"San Francisco, CA"
-1,no,Cherbourg,"Deephaven, MN / Cedar Rapids, IA"
-1,yes,Cherbourg,"Montreal, PQ"
-1,yes,Cherbourg,"Deephaven, MN / Cedar Rapids, IA"
-1,yes,Cherbourg,London / Paris
-1,yes,Cherbourg,London / Paris
-1,no,Cherbourg,"Philadelphia, PA"
-1,yes,Cherbourg,"Mt Airy, Philadelphia, PA"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"Brookline, MA"
-1,no,Cherbourg,"New York, NY"
-1,no,Southampton,
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,
-1,yes,Southampton,"Brooklyn, NY"
-1,no,Cherbourg,"New York, NY"
-1,yes,Southampton,"Winnipeg, MB"
-1,yes,Southampton,"Winnipeg, MB"
-1,yes,Southampton,"Winnipeg, MB"
-1,no,Southampton,"Winnipeg, MB"
-1,no,Southampton,"Winnipeg, MB"
-1,yes,Southampton,"Winnipeg, MB"
-1,yes,Cherbourg,
-1,no,Southampton,"Westcliff-on-Sea, Essex"
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,"Zurich, Switzerland"
-1,yes,Cherbourg,"Zurich, Switzerland"
-1,yes,Cherbourg,"Zurich, Switzerland"
-1,no,Southampton,
-1,no,Southampton,"Scituate, MA"
-1,yes,Southampton,"Scituate, MA"
-1,no,Southampton,"St Anne's-on-Sea, Lancashire"
-1,yes,Cherbourg,
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,no,Cherbourg,
-1,yes,Cherbourg,"Paris, France / New York, NY"
-1,yes,Cherbourg,"Paris, France / New York, NY"
-1,no,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"Washington, DC"
-1,yes,Southampton,"Greenwich, CT"
-1,no,Southampton,"Winnipeg, MB"
-1,yes,Southampton,"Greenwich, CT"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,no,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"Brooklyn, NY"
-1,yes,Cherbourg,"Brooklyn, NY"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,no,Southampton,
-1,no,Southampton,"New York, NY"
-1,yes,Southampton,"New York, NY"
-1,no,Southampton,
-1,yes,Cherbourg,
-1,yes,Southampton,"Kingston, Surrey"
-1,yes,Cherbourg,"New York, NY"
-1,no,Southampton,"Montreal, PQ"
-1,yes,Southampton,"Montreal, PQ"
-1,no,Southampton,London / Middlesex
-1,no,Southampton,"Brighton, MA"
-1,no,Southampton,London / Birmingham
-1,yes,Cherbourg,"Chicago, IL"
-1,yes,Cherbourg,"Chicago, IL"
-1,yes,Southampton,"Hudson, NY"
-1,no,Southampton,"New York, NY"
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,"Indianapolis, IN"
-1,yes,Southampton,"New York, NY / Stamford CT"
-1,no,Cherbourg,"New York, NY"
-1,yes,Southampton,"New York, NY / Stamford CT"
-1,yes,,
-1,no,Cherbourg,"Paris, France New York, NY"
-1,yes,Southampton,Liverpool
-1,no,Southampton,"Bennington, VT"
-1,no,Southampton,London
-1,no,Cherbourg,
-1,no,Cherbourg,"Buffalo, NY"
-1,no,Southampton,"Southington / Noank, CT"
-1,yes,Southampton,"Southington / Noank, CT"
-1,yes,Southampton,"Boston, MA"
-1,yes,Southampton,"Boston, MA"
-1,no,Southampton,"Portland, OR"
-1,yes,Southampton,
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,
-1,yes,Cherbourg,
-1,no,Cherbourg,"Chicago, IL"
-1,no,Southampton,"Stockholm, Sweden"
-1,yes,Cherbourg,"Stockholm, Sweden"
-1,yes,Southampton,"Paris, France"
-1,yes,Southampton,"Paris, France"
-1,no,Southampton,"Springfield, MA"
-1,yes,Southampton,"Hudson, NY"
-1,no,Southampton,"London / New York, NY"
-1,yes,Cherbourg,
-1,yes,Southampton,"St Louis, MO"
-1,no,Southampton,"Brockton, MA"
-1,yes,Southampton,
-1,yes,Cherbourg,"Paris, France"
-1,no,Southampton,"New York, NY"
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,"Belgium Montreal, PQ"
-1,no,Cherbourg,"Vancouver, BC"
-1,no,Southampton,"Dorchester, MA"
-1,yes,Southampton,"Philadelphia, PA"
-1,no,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,no,Southampton,"East Bridgewater, MA"
-1,no,Queenstown,"Fond du Lac, WI"
-1,yes,Queenstown,"Green Bay, WI"
-1,yes,Queenstown,"Fond du Lac, WI"
-1,yes,Cherbourg,"New York, NY"
-1,no,Southampton,"Montreal, PQ"
-1,no,Southampton,"Washington, DC"
-1,no,Cherbourg,"Brooklyn, NY"
-1,yes,Cherbourg,"Lexington, MA"
-1,yes,Cherbourg,"Lexington, MA"
-1,no,Cherbourg,"Lexington, MA"
-1,yes,Southampton,"New York, NY"
-1,no,Southampton,"Isle of Wight, England"
-1,yes,Cherbourg,
-1,yes,Cherbourg,"Paris, France"
-1,yes,Cherbourg,"Providence, RI"
-1,no,Cherbourg,"Providence, RI"
-1,no,Cherbourg,"?Havana, Cuba"
-1,no,Southampton,Belfast
-1,no,Southampton,"Surbiton Hill, Surrey"
-1,no,Southampton,"Montreal, PQ"
-1,no,Southampton,"Isleworth, England"
-1,yes,Southampton,"Isleworth, England"
-1,no,Cherbourg,"Madrid, Spain"
-1,yes,Cherbourg,"Madrid, Spain"
-1,yes,Southampton,
-1,yes,Southampton,"Toronto, ON"
-1,no,Southampton,"Worcester, MA"
-1,yes,Cherbourg,"Mt Airy, Philadelphia, PA"
-1,no,Southampton,"Rotterdam, Netherlands"
-1,yes,Southampton,"Paris / New York, NY"
-1,no,Cherbourg,
-1,no,Cherbourg,
-1,yes,Southampton,"St Louis, MO"
-1,no,Southampton,"Trenton, NJ"
-1,yes,Southampton,"New York, NY"
-1,no,Southampton,"Seattle, WA"
-1,yes,Cherbourg,"Paris, France"
-1,no,Cherbourg,"New York, NY"
-1,no,Cherbourg,"Winnipeg, MB"
-1,yes,Southampton,"London Vancouver, BC"
-1,no,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,no,Southampton,London
-1,yes,Cherbourg,"Haverford, PA / Cooperstown, NY"
-1,yes,Cherbourg,"Haverford, PA / Cooperstown, NY"
-1,yes,Cherbourg,"Haverford, PA / Cooperstown, NY"
-1,no,Cherbourg,"Haverford, PA / Cooperstown, NY"
-1,yes,Cherbourg,"Haverford, PA / Cooperstown, NY"
-1,yes,Southampton,"Manchester, England"
-1,yes,Cherbourg,
-1,yes,Southampton,"New York, NY"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,
-1,yes,Southampton,"New York, NY"
-1,yes,Southampton,"New York, NY / Greenwich CT"
-1,yes,Southampton,"St Louis, MO"
-1,no,Southampton,"Duluth, MN"
-1,yes,Southampton,"Duluth, MN"
-1,yes,Cherbourg,"Basel, Switzerland"
-1,yes,Southampton,"New Britain, CT"
-1,no,Southampton,"New York, NY"
-1,no,Cherbourg,"St James, Long Island, NY"
-1,no,Southampton,"Huntington, WV"
-1,no,Southampton,"Streatham, Surrey"
-1,yes,Southampton,"Huntington, WV"
-1,yes,Southampton,"Minneapolis, MN"
-1,yes,Southampton,"Minneapolis, MN"
-1,yes,Cherbourg,"Tuxedo Park, NY"
-1,yes,Cherbourg,"Tuxedo Park, NY"
-1,yes,Cherbourg,"Tuxedo Park, NY"
-1,no,Cherbourg,"Paris, France"
-1,yes,Cherbourg,"Paris, France"
-1,yes,Cherbourg,"Basel, Switzerland"
-1,no,Southampton,"Wimbledon Park, London / Hayling Island, Hants"
-1,yes,Cherbourg,"Newark, NJ"
-1,yes,Cherbourg,"Newark, NJ"
-1,yes,Cherbourg,"Haverford, PA"
-1,no,Cherbourg,"Gallipolis, Ohio / ? Paris / New York"
-1,yes,,"Cincinatti, OH"
-1,no,Southampton,"New York, NY"
-1,no,Southampton,"New York, NY"
-1,no,Southampton,"Haddenfield, NJ"
-1,yes,Southampton,"Brooklyn, NY"
-1,yes,Southampton,"New York, NY"
-1,no,Southampton,"New York, NY"
-1,yes,Southampton,"New York, NY"
-1,yes,Southampton,"London / East Orange, NJ"
-1,yes,Southampton,"London / East Orange, NJ"
-1,no,Cherbourg,"Haverford, PA"
-1,yes,Cherbourg,"Haverford, PA"
-1,yes,Cherbourg,"Haverford, PA"
-1,yes,Cherbourg,"New York, NY"
-1,yes,Cherbourg,"Albany, NY"
-1,no,Cherbourg,"Mexico City, Mexico"
-1,no,Southampton,"Brooklyn, NY"
-1,no,Southampton,"East Orange, NJ"
-1,yes,Cherbourg,
-1,no,Cherbourg,"Portland, OR"
-1,yes,Cherbourg,"Portland, OR"
-1,no,Southampton,"England Salt Lake City, Utah"
-1,no,Southampton,"Brunswick, ME"
-1,no,Southampton,"Brunswick, ME"
-1,yes,Cherbourg,"New York, NY / Briarcliff Manor NY"
-1,yes,Southampton,"Youngstown, OH"
-1,no,Southampton,"Youngstown, OH"
-1,yes,Southampton,"Youngstown, OH"
-1,no,Cherbourg,"Elkins Park, PA"
-1,no,Cherbourg,"Elkins Park, PA"
-1,yes,Cherbourg,"Elkins Park, PA"
-1,yes,Southampton,"Duluth, MN"
-1,no,Cherbourg,"Geneva, Switzerland / Radnor, PA"
-1,yes,Cherbourg,"Geneva, Switzerland / Radnor, PA"
-1,no,Southampton,"London, England"
-1,yes,Cherbourg,
-1,yes,Southampton,"London, England"
-1,no,Southampton,"Halifax, NS"
-1,yes,Cherbourg,"New York, NY / Washington, DC"
-2,no,Cherbourg,"Russia New York, NY"
-2,yes,Cherbourg,"Russia New York, NY"
-2,no,Southampton,"Bryn Mawr, PA, USA"
-2,no,Southampton,"Buenos Aires, Argentina / New Jersey, NJ"
-2,no,Southampton,"Cornwall, England Houghton, MI"
-2,no,Southampton,"Warwick, England"
-2,yes,Southampton,"Warwick, England"
-2,no,Southampton,"West Hoboken, NJ"
-2,no,Southampton,"Penzance, Cornwall / Akron, OH"
-2,no,Southampton,Guernsey
-2,yes,Southampton,"Bristol, Avon / Jacksonville, FL"
-2,no,Southampton,"Plymouth, Dorset / Houghton, MI"
-2,no,Southampton,"Jacksonville, FL"
-2,yes,Southampton,"Norwich / New York, NY"
-2,yes,Southampton,"Norwich / New York, NY"
-2,no,Southampton,England
-2,yes,Southampton,"Guntur, India / Benton Harbour, MI"
-2,yes,Southampton,"Guntur, India / Benton Harbour, MI"
-2,yes,Southampton,"Guntur, India / Benton Harbour, MI"
-2,yes,Southampton,"Guntur, India / Benton Harbour, MI"
-2,yes,Southampton,London
-2,yes,Southampton,"Rochester, NY"
-2,no,Southampton,"St Ives, Cornwall / Calumet, MI"
-2,no,Southampton,"Elmira, NY / Orange, NJ"
-2,no,Southampton,London
-2,no,Southampton,"Lake Arthur, Chavez County, NM"
-2,yes,Southampton,"London / Montreal, PQ"
-2,yes,Southampton,"Cape Town, South Africa / Seattle, WA"
-2,no,Southampton,"Cape Town, South Africa / Seattle, WA"
-2,yes,Southampton,"Cape Town, South Africa / Seattle, WA"
-2,yes,Southampton,"Skara, Sweden / Rockford, IL"
-2,no,Southampton,"Skara, Sweden / Rockford, IL"
-2,yes,Southampton,"Sittingbourne, England / San Diego, CA"
-2,no,Southampton,"Southsea, Hants"
-2,no,Southampton,London
-2,yes,Southampton,"New York, NY"
-2,yes,Southampton,"Bangkok, Thailand / Roseville, IL"
-2,yes,Southampton,"Bangkok, Thailand / Roseville, IL"
-2,yes,Southampton,"Bangkok, Thailand / Roseville, IL"
-2,yes,Southampton,"Mamaroneck, NY"
-2,no,Southampton,Belfast
-2,no,Southampton,"St Ives, Cornwall / Calumet, MI"
-2,no,Southampton,London
-2,no,Southampton,London
-2,no,Southampton,"Bronx, NY"
-2,no,Southampton,"Cornwall / Spokane, WA"
-2,no,Southampton,"Cornwall / Spokane, WA"
-2,yes,Southampton,London
-2,yes,Southampton,London
-2,no,Southampton,"England / San Francisco, CA"
-2,yes,Southampton,"England / San Francisco, CA"
-2,no,Southampton,"Hartford, Huntingdonshire"
-2,no,Southampton,"Helsinki, Finland Ashtabula, Ohio"
-2,yes,Southampton,"London / Fort Byron, NY"
-2,yes,Southampton,"Bishopstoke, Hants / Fayette Valley, ID"
-2,no,Southampton,"Bishopstoke, Hants / Fayette Valley, ID"
-2,yes,Southampton,"Bishopstoke, Hants / Fayette Valley, ID"
-2,yes,Southampton,Pennsylvania
-2,no,Southampton,"Provo, UT"
-2,no,Southampton,"Upper Burma, India Pittsburgh, PA"
-2,no,Southampton,"Penzance, Cornwall / Akron, OH"
-2,no,Southampton,Belfast
-2,yes,Southampton,"St Ives, Cornwall / Hancock, MI"
-2,no,Southampton,"Lyndhurst, England"
-2,yes,Southampton,"St Ives, Cornwall / Hancock, MI"
-2,yes,Southampton,"London / Staten Island, NY"
-2,no,Southampton,"Portugal / Sau Paulo, Brazil"
-2,no,Southampton,
-2,no,Cherbourg,"Lucca, Italy / California"
-2,yes,Cherbourg,"Lucca, Italy / California"
-2,no,Southampton,"Guernsey / Elizabeth, NJ"
-2,no,Southampton,"New Forest, England"
-2,yes,Southampton,Southampton
-2,yes,Southampton,Southampton
-2,no,Southampton,"Holley, NY"
-2,yes,Southampton,"Greenport, NY"
-2,no,Southampton,"Greenport, NY"
-2,yes,Southampton,"Greenport, NY"
-2,yes,Cherbourg,"Barcelona, Spain / Havana, Cuba"
-2,yes,Cherbourg,"Barcelona, Spain / Havana, Cuba"
-2,no,Southampton,"England / Detroit, MI"
-2,no,Southampton,"Goteborg, Sweden / Rockford, IL"
-2,no,Southampton,"Oslo, Norway Bayonne, NJ"
-2,no,Southampton,"England / Philadelphia, PA"
-2,yes,Southampton,
-2,no,Southampton,"Cornwall / Houghton, MI"
-2,no,Southampton,"Rochester, NY"
-2,no,Southampton,Belfast
-2,no,Southampton,"Janjgir, India / Pennsylvania"
-2,no,Southampton,"Liverpool / Montreal, PQ"
-2,no,Southampton,"Cornwall / Clear Creek, CO"
-2,no,Southampton,"Cornwall / Clear Creek, CO"
-2,yes,Southampton,"Brooklyn, NY"
-2,no,Southampton,"Liverpool / Montreal, PQ"
-2,no,Southampton,"Guernsey / Elizabeth, NJ"
-2,no,Southampton,Cornwall
-2,no,Southampton,"Cornwall / Camden, NJ"
-2,no,Southampton,"Cornwall / Camden, NJ"
-2,no,Southampton,"West Kensington, London"
-2,no,Southampton,"Clevedon, England"
-2,no,Southampton,"Vancouver, BC"
-2,no,Southampton,
-2,no,Southampton,"Bronx, NY"
-2,no,Southampton,"Auburn, NY"
-2,yes,Southampton,"Detroit, MI"
-2,yes,Southampton,"Detroit, MI"
-2,no,Southampton,"Seattle, WA / Toledo, OH"
-2,yes,Southampton,"Denmark Hill, Surrey / Chicago"
-2,no,Southampton,"Denmark Hill, Surrey / Chicago"
-2,yes,Southampton,London
-2,no,Southampton,"Walthamstow, England"
-2,yes,Southampton,"Ilford, Essex / Winnipeg, MB"
-2,no,Southampton,"Ilford, Essex / Winnipeg, MB"
-2,yes,Southampton,"Ilford, Essex / Winnipeg, MB"
-2,yes,Southampton,"Somerset / Bernardsville, NJ"
-2,yes,Southampton,"Somerset / Bernardsville, NJ"
-2,no,Southampton,"Somerset / Bernardsville, NJ"
-2,yes,Southampton,"Somerset / Bernardsville, NJ"
-2,yes,Southampton,"India / Rapid City, SD"
-2,no,Southampton,"West Hampstead, London / Neepawa, MB"
-2,no,Southampton,"West Hampstead, London / Neepawa, MB"
-2,no,Southampton,"West Hampstead, London / Neepawa, MB"
-2,no,Southampton,"Kontiolahti, Finland / Detroit, MI"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,no,Southampton,"Cornwall / Akron, OH"
-2,no,Southampton,"Devonport, England"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,no,Southampton,Southampton
-2,no,Southampton,"England / Sacramento, CA"
-2,yes,Southampton,"England / Sacramento, CA"
-2,no,Southampton,"New Forest, England"
-2,yes,Southampton,"Tokyo, Japan"
-2,no,Southampton,"Swindon, England"
-2,no,Southampton,"Swindon, England"
-2,no,Southampton,"Philadelphia, PA"
-2,yes,Southampton,Guernsey
-2,no,Southampton,London
-2,yes,Southampton,London
-2,no,Southampton,"North Evington, England"
-2,no,Southampton,"Guernsey / Elizabeth, NJ"
-2,no,Southampton,"Guernsey / Elizabeth, NJ"
-2,no,Southampton,"St Ives, Cornwall / Houghton, MI"
-2,yes,Cherbourg,"New York, NY"
-2,no,Southampton,"Moscow / Bronx, NY"
-2,yes,Southampton,"Moscow / Bronx, NY"
-2,no,Southampton,"India / Pittsburgh, PA"
-2,yes,Queenstown,"Harrisburg, PA"
-2,no,Queenstown,
-2,yes,Southampton,"London / New York, NY"
-2,no,Queenstown,"Glasgow / Bangor, ME"
-2,no,Southampton,Belfast
-2,no,Southampton,"Sweden / Arlington, NJ"
-2,no,Southampton,"Minneapolis, MN"
-2,no,Southampton,"Minneapolis, MN"
-2,no,Queenstown,
-2,yes,Cherbourg,Paris / Haiti
-2,yes,Cherbourg,Paris / Haiti
-2,no,Cherbourg,Paris / Haiti
-2,yes,Cherbourg,Paris / Haiti
-2,yes,Cherbourg,"Berne, Switzerland / Central City, IA"
-2,yes,Southampton,"London / Chicago, IL"
-2,yes,Southampton,"Chicago, IL"
-2,no,Cherbourg,"Montreal, PQ"
-2,no,Southampton,
-2,no,Queenstown,
-2,no,Southampton,"Weston-Super-Mare, Somerset"
-2,yes,Southampton,"Weston-Super-Mare, Somerset"
-2,no,Southampton,"Southampton / New York, NY"
-2,no,Cherbourg,Paris
-2,yes,Cherbourg,"Paris / Montreal, PQ"
-2,no,Cherbourg,"Paris / Montreal, PQ"
-2,yes,Cherbourg,"Paris / Montreal, PQ"
-2,no,Cherbourg,"New York, NY"
-2,no,Southampton,"St Austall, Cornwall"
-2,no,Southampton,"Weston-Super-Mare / Moose Jaw, SK"
-2,no,Southampton,"Sydney, Australia"
-2,no,Southampton,"Sarnia, ON"
-2,no,Southampton,"Rochester, NY"
-2,yes,Southampton,"England / Bennington, VT"
-2,yes,Southampton,"England / Bennington, VT"
-2,yes,Southampton,"Chelsea, London"
-2,no,Southampton,"Harrow-on-the-Hill, Middlesex"
-2,no,Southampton,"Copenhagen, Denmark"
-2,no,Southampton,"Guernsey / Montclair, NJ and/or Toledo, Ohio"
-2,no,Southampton,"Worcester, MA"
-2,no,Southampton,"Frankfort, KY"
-2,no,Southampton,
-2,no,Southampton,"Halesworth, England"
-2,no,Queenstown,"Cambridge, MA"
-2,no,Cherbourg,"New York, NY"
-2,yes,Cherbourg,"New York, NY"
-2,yes,Southampton,"Nice, France"
-2,yes,Southampton,"Nice, France"
-2,no,Southampton,"Nice, France"
-2,no,Southampton,"Boston, MA"
-2,no,Southampton,"Cornwall / Hancock, MI"
-2,no,Southampton,Glasgow
-2,yes,Cherbourg,"Cologne, Germany"
-2,yes,Southampton,"Folkstone, Kent / New York, NY"
-2,no,Southampton,"Middleburg Heights, OH"
-2,yes,Southampton,"Pondersend, England / New Durham, NJ"
-2,yes,Cherbourg,"Spain / Havana, Cuba"
-2,no,Southampton,"Hamilton, ON"
-2,yes,Cherbourg,"Spain / Havana, Cuba"
-2,no,Southampton,"St Andrews, Guernsey"
-2,no,Southampton,Belfast
-2,yes,Southampton,"Woodford County, KY"
-2,no,Southampton,"Gunnislake, England / Butte, MT"
-2,no,Cherbourg,
-2,no,Southampton,
-2,yes,Southampton,"Ilfracombe, Devon"
-2,yes,Southampton,"Worcester, England"
-2,no,Southampton,"Ilfracombe, Devon"
-2,yes,Southampton,Russia
-2,no,Southampton,"Denmark / New York, NY"
-2,yes,Cherbourg,"Milford, NH"
-2,no,Cherbourg,Paris
-2,yes,Southampton,"Plymouth, Devon / Detroit, MI"
-2,yes,Southampton,"Plymouth, Devon / Detroit, MI"
-2,yes,Southampton,"Plymouth, Devon / Detroit, MI"
-2,no,Southampton,"Brighton, Sussex"
-2,no,Southampton,"Elizabeth, NJ"
-2,yes,Southampton,"Elizabeth, NJ"
-2,yes,Southampton,Spain
-2,no,Cherbourg,"Paris / Montreal, PQ"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,yes,Southampton,"London, England / Marietta, Ohio and Milwaukee, WI"
-2,no,Southampton,
-2,yes,Southampton,"Guernsey / Wilmington, DE"
-2,no,Southampton,"Newark, NJ"
-2,no,Southampton,Liverpool
-2,no,Southampton,"Hornsey, England"
-2,yes,Southampton,"Deer Lodge, MT"
-2,yes,Southampton,"Finland / Minneapolis, MN"
-2,yes,Southampton,"Cornwall / Hancock, MI"
-2,yes,Southampton,"Finland / Washington, DC"
-2,no,Southampton,"Sault St Marie, ON"
-2,yes,Queenstown,"Halifax, NS"
-2,no,Southampton,Cornwall
-2,yes,Southampton,
-2,no,Southampton,"Cornwall / Houghton, MI"
-2,no,Cherbourg,"New York, NY"
-2,no,Southampton,"Catford, Kent / Detroit, MI"
-2,no,Southampton,
-2,no,Southampton,"Somerset / Bernardsville, NJ"
-2,yes,Southampton,"Indianapolis, IN"
-2,no,Southampton,
-2,yes,Southampton,"Columbus, OH"
-2,yes,Southampton,"Bath, England / Massachusetts"
-2,no,Southampton,"Plymouth, England"
-2,no,Southampton,"Plymouth, England"
-2,no,Southampton,"Barre, Co Washington, VT"
-2,yes,Southampton,"Mamaroneck, NY"
-2,no,Southampton,"Bristol, England / New Britain, CT"
-2,no,Southampton,
-2,yes,Southampton,"Bristol, England / New Britain, CT"
-2,no,Southampton,Belfast
-2,yes,Southampton,"Aberdeen / Portland, OR"
-2,yes,Southampton,"Aberdeen / Portland, OR"
-2,yes,Southampton,"England / Hartford, CT"
-2,no,Southampton,"Bromsgrove, England / Montreal, PQ"
-2,yes,Southampton,"Bromsgrove, England / Montreal, PQ"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,yes,Southampton,"Cornwall / Akron, OH"
-2,yes,Southampton,"Bournmouth, England"
-2,yes,Southampton,"Bournmouth, England"
-2,no,Southampton,"Bournmouth, England"
-2,yes,Southampton,"Bournmouth, England"
-2,no,Southampton,"Guernsey, England / Edgewood, RI"
-2,no,Southampton,
-2,yes,Southampton,"London, England"
-2,yes,Southampton,"Harrow, England"
-2,yes,Southampton,"Yoevil, England / Cottage Grove, OR"
-2,no,Southampton,Paris
-3,no,Southampton,
-3,no,Southampton,"East Providence, RI"
-3,no,Southampton,"East Providence, RI"
-3,yes,Southampton,"East Providence, RI"
-3,yes,Southampton,"Norway Los Angeles, CA"
-3,yes,Southampton,"Perkins County, SD"
-3,yes,Southampton,"Taalintehdas, Finland Hoboken, NJ"
-3,yes,Cherbourg,"Greensburg, PA"
-3,no,Southampton,"Asarum, Sweden Brooklyn, NY"
-3,no,Southampton,"Bournemouth, England"
-3,no,Southampton,"Sweden Akeley, MN"
-3,yes,Southampton,"London, England Norfolk, VA"
-3,yes,Southampton,"London, England Norfolk, VA"
-3,yes,Cherbourg,"Syria Fredericksburg, VA"
-3,no,Southampton,"England Albion, NY"
-3,no,Southampton,"Salo, Finland Astoria, OR"
-3,no,Southampton,
-3,no,Southampton,Argentina
-3,no,Southampton,"Lower Clapton, Middlesex or Erdington, Birmingham"
-3,no,Southampton,"Windsor, England New York, NY"
-3,no,Southampton,"Bergen, Norway"
-3,yes,Southampton,
-3,no,Southampton,"Sweden Winnipeg, MN"
-3,no,Southampton,"Sweden Winnipeg, MN"
-3,no,Southampton,"Sweden Winnipeg, MN"
-3,yes,Southampton,"Ruotsinphyhtaa, Finland New York, NY"
-3,no,Southampton,"Vadsbro, Sweden Ministee, MI"
-3,no,Southampton,"Sweden Winnipeg, MN"
-3,no,Southampton,"Sweden Winnipeg, MN"
-3,no,Southampton,"Sweden Winnipeg, MN"
-3,yes,Southampton,
-3,no,Southampton,"Hartford, CT"
-3,no,Southampton,"Sweden Winnipeg, MN"
-3,no,Southampton,"Sweden Chicago, IL"
-3,no,Southampton,"Bulgaria Chicago, IL"
-3,no,Southampton,"Altdorf, Switzerland"
-3,no,Southampton,"Altdorf, Switzerland"
-3,no,Southampton,"Sweden Joliet, IL"
-3,no,Southampton,
-3,no,Southampton,"Sweden Worcester, MA"
-3,no,Southampton,"Sweden Worcester, MA"
-3,yes,Southampton,"Sweden Worcester, MA"
-3,no,Southampton,"Sweden Worcester, MA"
-3,yes,Southampton,"Sweden Worcester, MA"
-3,no,Southampton,"Sweden Worcester, MA"
-3,yes,Southampton,"Oskarshamn, Sweden Minneapolis, MN"
-3,yes,Southampton,"Sweden Worcester, MA"
-3,yes,Cherbourg,"Ottawa, ON"
-3,no,Cherbourg,"Ottawa, ON"
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Cherbourg,"Ottawa, ON"
-3,no,Southampton,"Krakoryd, Sweden Bloomington, IL"
-3,yes,Cherbourg,"Syria Youngstown, OH"
-3,no,Cherbourg,
-3,no,Southampton,"Ruotsinphytaa, Finland New York, NY"
-3,yes,Southampton,"Ruotsinphytaa, Finland New York, NY"
-3,yes,Cherbourg,"Syria New York, NY"
-3,yes,Cherbourg,"Syria New York, NY"
-3,yes,Cherbourg,"Syria New York, NY"
-3,yes,Cherbourg,"Syria New York, NY"
-3,yes,Southampton,"London Skanteales, NY"
-3,no,Cherbourg,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,no,Cherbourg,"Syria Ottawa, ON"
-3,no,Cherbourg,"Syria Ottawa, ON"
-3,no,Queenstown,"New York, NY"
-3,no,Southampton,"England New York, NY"
-3,no,Southampton,England
-3,no,Southampton,"Krakudden, Sweden Moune, IL"
-3,no,Southampton,"Tranvik, Finland New York"
-3,no,Cherbourg,
-3,no,Cherbourg,Syria
-3,yes,Southampton,"Hong Kong New York, NY"
-3,no,Southampton,"Brennes, Norway New York"
-3,no,Southampton,"Stockholm, Sweden New York"
-3,no,Southampton,"Bulgaria Chicago, IL"
-3,no,Cherbourg,"Syria Kent, ON"
-3,no,Cherbourg,"Syria Kent, ON"
-3,no,Cherbourg,Syria
-3,no,Cherbourg,"Syria Kent, ON"
-3,no,Queenstown,"Ireland Chicago, IL"
-3,no,Queenstown,"Ireland Chicago, IL"
-3,no,Queenstown,"Ireland Chicago, IL"
-3,no,Southampton,"Treherbert, Cardiff, Wales"
-3,yes,Queenstown,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY"
-3,no,Southampton,"Medeltorp, Sweden Chicago, IL"
-3,no,Southampton,"Bridgerule, Devon"
-3,no,Southampton,"Bridgerule, Devon"
-3,no,Southampton,"Sweden Worcester, MA"
-3,no,Southampton,"Broomfield, Chelmsford, England"
-3,no,Queenstown,"Co Cork, Ireland Roxbury, MA"
-3,yes,Queenstown,"Kingwilliamstown, Co Cork, Ireland New York, NY"
-3,no,Queenstown,"Co Cork, Ireland Charlestown, MA"
-3,no,Queenstown,"Co Sligo, Ireland New York, NY"
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,Croatia
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Queenstown,"Ireland Philadelphia, PA"
-3,no,Southampton,
-3,no,Cherbourg,"Ottawa, ON"
-3,no,Cherbourg,"Ottawa, ON"
-3,no,Southampton,"Dagsas, Sweden Fower, MN"
-3,no,Southampton,"Goteborg, Sweden Huntley, IL"
-3,yes,Queenstown,"Co Longford, Ireland New York, NY"
-3,no,Queenstown,"Co Sligo, Ireland Hartford, CT"
-3,no,Southampton,"St Denys, Southampton, Hants"
-3,no,Southampton,London
-3,no,Queenstown,"Ireland New York, NY"
-3,yes,Southampton,"Hong Kong New York, NY"
-3,no,Southampton,
-3,no,Cherbourg,Greece
-3,no,Cherbourg,Greece
-3,no,Southampton,Portugal
-3,yes,Southampton,"London Brooklyn, NY"
-3,no,Queenstown,"Co Limerick, Ireland Sherbrooke, PQ"
-3,no,Southampton,"Bulgaria Chicago, IL"
-3,no,Southampton,
-3,no,Queenstown,"Philadelphia, PA"
-3,no,Queenstown,"Ireland Brooklyn, NY"
-3,yes,Queenstown,Ireland
-3,no,Queenstown,Ireland
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,Austria
-3,no,Southampton,Austria
-3,no,Southampton,Austria
-3,no,Southampton,London
-3,yes,Southampton,"England Brooklyn, NY"
-3,yes,Southampton,"England Brooklyn, NY"
-3,yes,Southampton,"England Brooklyn, NY"
-3,no,Southampton,"Merrill, WI"
-3,no,Southampton,"Bristol, England Cleveland, OH"
-3,yes,Southampton,"Bournemouth, England Newark, NJ"
-3,no,Southampton,"Bournemouth, England Newark, NJ"
-3,no,Southampton,Austria-Hungary
-3,no,Cherbourg,
-3,yes,Southampton,"Australia Fingal, ND"
-3,no,Southampton,"Norrlot, Sweden Chicago, IL"
-3,no,Southampton,Austria
-3,yes,Queenstown,"Co Athlone, Ireland New York, NY"
-3,yes,Queenstown,"Co Athlone, Ireland New York, NY"
-3,no,Southampton,"Stanton, IA"
-3,no,Southampton,"Stanton, IA"
-3,no,Southampton,"Stanton, IA"
-3,no,Southampton,"Bulgaria Chicago, IL"
-3,no,Southampton,"Bulgaria Chicago, IL"
-3,no,Southampton,"West Bromwich, England Pontiac, MI"
-3,no,Southampton,
-3,no,Southampton,"West Bromwich, England Pontiac, MI"
-3,no,Southampton,"West Bromwich, England Pontiac, MI"
-3,no,Southampton,"Liverpool, England Bedford, OH"
-3,yes,Southampton,"Liverpool, England Bedford, OH"
-3,yes,Southampton,"Tampico, MT"
-3,yes,Southampton,"Tampico, MT"
-3,yes,Southampton,"Belgium Detroit, MI"
-3,no,Southampton,
-3,yes,Southampton,"Devon, England Wichita, KS"
-3,yes,Southampton,"Devon, England Wichita, KS"
-3,no,Southampton,"Devon, England Wichita, KS"
-3,yes,Southampton,"Devon, England Wichita, KS"
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,"Bulgaria Coon Rapids, IA"
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,"Kilmacowen, Co Sligo, Ireland New York, NY"
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Queenstown,"Ireland New York, NY"
-3,yes,Southampton,"England Oglesby, IL"
-3,yes,Southampton,"Union Hill, NJ"
-3,no,Queenstown,"Ireland New York, NY"
-3,yes,Southampton,"London New York, NY"
-3,no,Cherbourg,"Austria Niagara Falls, NY"
-3,no,Queenstown,
-3,yes,Southampton,"England Albion, NY"
-3,no,Southampton,"West Haven, CT"
-3,yes,Southampton,"West Haven, CT"
-3,no,Southampton,"Tofta, Sweden Joliet, IL"
-3,no,Southampton,"Karberg, Sweden Jerome Junction, AZ"
-3,no,Southampton,"Effington Rut, SD"
-3,no,Cherbourg,
-3,no,Cherbourg,"Syria Ottawa, ON"
-3,no,Cherbourg,
-3,no,Cherbourg,Syria
-3,no,Southampton,"Illinois, USA"
-3,yes,Southampton,"New York, NY"
-3,no,Cherbourg,
-3,no,Southampton,
-3,no,Queenstown,"Aughnacliff, Co Longford, Ireland New York, NY"
-3,yes,Southampton,"Italy Philadelphia, PA"
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,"Ireland Chicago, IL"
-3,no,Queenstown,Ireland
-3,yes,Southampton,"Hong Kong New York, NY"
-3,no,Southampton,"Rotherfield, Sussex, England Essex Co, MA"
-3,no,Southampton,"Rotherfield, Sussex, England Essex Co, MA"
-3,no,Southampton,"Bridgwater, Somerset, England"
-3,no,Southampton,"Rotherfield, Sussex, England Essex Co, MA"
-3,no,Southampton,"Rotherfield, Sussex, England Essex Co, MA"
-3,no,Southampton,"Rotherfield, Sussex, England Essex Co, MA"
-3,no,Queenstown,"Ireland New York, NY"
-3,no,Southampton,
-3,no,Queenstown,"New York, NY"
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Southampton,
-3,yes,Queenstown,"Co Longford, Ireland New York, NY"
-3,yes,Queenstown,"Co Clare, Ireland Washington, DC"
-3,yes,Southampton,"Strood, Kent, England Detroit, MI"
-3,no,Southampton,"Strood, Kent, England Detroit, MI"
-3,no,Southampton,"Philadelphia, PA"
-3,yes,Southampton,"Strood, Kent, England Detroit, MI"
-3,no,Southampton,Portugal
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Wiltshire, England Niagara Falls, NY"
-3,no,Southampton,"Dorking, Surrey, England"
-3,no,Southampton,"Foresvik, Norway Portland, ND"
-3,no,Southampton,
-3,no,Southampton,"Waukegan, Chicago, IL"
-3,no,Southampton,"Ruotsinphytaa, Finland New York, NY"
-3,no,Southampton,"Ruotsinphytaa, Finland New York, NY"
-3,no,Southampton,"Myren, Sweden New York, NY"
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Cherbourg,
-3,yes,Queenstown,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Queenstown,
-3,no,Southampton,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,yes,Queenstown,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,yes,Cherbourg,
-3,no,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,no,Queenstown,
-3,yes,Queenstown,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,no,Cherbourg,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,no,Queenstown,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Queenstown,
-3,yes,Southampton,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,no,Southampton,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Queenstown,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,"Finland Sudbury, ON"
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Queenstown,
-3,yes,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Queenstown,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,yes,Southampton,
-3,yes,Queenstown,
-3,yes,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,"Oslo, Norway Cameron, WI"
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,
-3,no,Queenstown,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,yes,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Queenstown,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,yes,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Queenstown,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,yes,Southampton,
-3,no,Cherbourg,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,yes,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,"Antwerp, Belgium / Stanton, OH"
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Cherbourg,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,yes,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Southampton,
-3,no,Cherbourg,
-3,yes,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Cherbourg,
-3,no,Southampton,
+survived,boardingLat,boardingLon,destinationLat,destinationLon
+false,50.9105468,-1.4049018,38.6270025,-90.1994042
+true,50.9105468,-1.4049018,45.5016889,-73.567256
+true,50.9105468,-1.4049018,45.5016889,-73.567256
+false,50.9105468,-1.4049018,45.5016889,-73.567256
+false,50.9105468,-1.4049018,45.5016889,-73.567256
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,42.2528649,-73.790959
+true,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,40.7585569,-73.7654367
+true,49.6338979,-1.622224,-34.9011127,-56.1645314
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,48.856614,2.3522219
+true,50.9105468,-1.4049018,53.723805,-0.434858
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,49.6338979,-1.622224,45.5016889,-73.567256
+false,49.6338979,-1.622224,45.5016889,-73.567256
+true,49.6338979,-1.622224,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,37.7749295,-122.4194155
+false,49.6338979,-1.622224,41.9842123,-86.1086228
+true,49.6338979,-1.622224,41.9842123,-86.1086228
+true,50.9105468,-1.4049018,59.3293235,18.0685808
+true,50.9105468,-1.4049018,40.2205824,-74.759717
+false,49.6338979,-1.622224,40.805378,-74.2037566
+true,50.9105468,-1.4049018,41.0997803,-80.6495194
+true,50.9105468,-1.4049018,53.6297693,-3.0206349
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,49.6338979,-1.622224,42.7006303,-74.924321
+true,50.9105468,-1.4049018,50.8556382,0.5525772
+true,50.9105468,-1.4049018,34.0522342,-118.2436849
+true,50.9105468,-1.4049018,46.4748738,-117.6026896
+false,49.6338979,-1.622224,41.2565369,-95.9345034
+false,49.6338979,-1.622224,39.9525839,-75.1652215
+false,49.6338979,-1.622224,39.7392358,-104.990251
+true,50.9105468,-1.4049018,42.3956405,-71.1776114
+true,49.6338979,-1.622224,39.9525839,-75.1652215
+true,50.9105468,-1.4049018,38.9071923,-77.0368707
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,38.9071923,-77.0368707
+true,49.6338979,-1.622224,47.516231,14.550072
+true,49.6338979,-1.622224,40.0292648,-75.174598
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,-34.9011127,-56.1645314
+false,50.9105468,-1.4049018,-34.9011127,-56.1645314
+false,50.9105468,-1.4049018,40.0230237,-75.3151772
+true,50.9105468,-1.4049018,40.0230237,-75.3151772
+true,50.9105468,-1.4049018,40.0230237,-75.3151772
+true,50.9105468,-1.4049018,40.0230237,-75.3151772
+true,50.9105468,-1.4049018,51.4062365,-0.6755624
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,52.7375328,-2.2394397
+false,50.9105468,-1.4049018,52.7375328,-2.2394397
+true,50.9105468,-1.4049018,47.0049744,-97.2189763
+false,50.9105468,-1.4049018,47.0049744,-97.2189763
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,49.6338979,-1.622224,48.856614,2.3522219
+true,50.9105468,-1.4049018,50.8556382,0.5525772
+true,50.9105468,-1.4049018,53.4083714,-2.9915726
+false,49.6338979,-1.622224,34.0522342,-118.2436849
+false,49.6338979,-1.622224,34.0522342,-118.2436849
+true,50.9105468,-1.4049018,42.1229099,-71.1092012
+false,50.9105468,-1.4049018,48.4284207,-123.3656444
+false,49.6338979,-1.622224,40.082129,-74.2097014
+true,49.6338979,-1.622224,40.082129,-74.2097014
+false,49.6338979,-1.622224,40.082129,-74.2097014
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,39.8489339,-86.8022295
+false,50.9105468,-1.4049018,43.0389025,-87.9064736
+false,50.9105468,-1.4049018,43.0389025,-87.9064736
+true,50.9105468,-1.4049018,43.0389025,-87.9064736
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,-12.0463731,-77.042754
+true,50.9105468,-1.4049018,39.9525839,-75.1652215
+true,50.9105468,-1.4049018,45.5016889,-73.567256
+false,50.9105468,-1.4049018,45.5016889,-73.567256
+true,50.9105468,-1.4049018,51.0447331,-114.0718831
+true,50.9105468,-1.4049018,51.0447331,-114.0718831
+true,50.9105468,-1.4049018,37.7749295,-122.4194155
+true,50.9105468,-1.4049018,37.7749295,-122.4194155
+true,50.9105468,-1.4049018,37.7749295,-122.4194155
+true,49.6338979,-1.622224,44.9296853,-93.5224552
+false,49.6338979,-1.622224,45.5016889,-73.567256
+true,49.6338979,-1.622224,44.9296853,-93.5224552
+true,49.6338979,-1.622224,51.5072178,-0.1275862
+true,49.6338979,-1.622224,51.5072178,-0.1275862
+true,49.6338979,-1.622224,39.9525839,-75.1652215
+false,49.6338979,-1.622224,40.058403,-75.1894155
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,42.3317642,-71.1211635
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,40.6781784,-73.9441579
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+true,50.9105468,-1.4049018,49.8954221,-97.1385145
+true,50.9105468,-1.4049018,49.8954221,-97.1385145
+true,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+true,50.9105468,-1.4049018,51.535879,0.696966
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,47.3768866,8.541694
+true,49.6338979,-1.622224,47.3768866,8.541694
+true,49.6338979,-1.622224,47.3768866,8.541694
+false,50.9105468,-1.4049018,42.195929,-70.7258633
+false,50.9105468,-1.4049018,42.195929,-70.7258633
+true,50.9105468,-1.4049018,53.7587262,-3.0164238
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,38.9071923,-77.0368707
+true,50.9105468,-1.4049018,41.0262417,-73.6281964
+true,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,41.0262417,-73.6281964
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,40.6781784,-73.9441579
+true,49.6338979,-1.622224,40.6781784,-73.9441579
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,51.41233,-0.300689
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,45.5016889,-73.567256
+false,50.9105468,-1.4049018,45.5016889,-73.567256
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,42.3489143,-71.1604919
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,49.6338979,-1.622224,41.8781136,-87.6297982
+true,49.6338979,-1.622224,41.8781136,-87.6297982
+true,50.9105468,-1.4049018,42.2528649,-73.790959
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,39.768403,-86.158068
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,53.4083714,-2.9915726
+true,50.9105468,-1.4049018,42.8781345,-73.1967741
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,49.6338979,-1.622224,42.8864468,-78.8783689
+false,50.9105468,-1.4049018,41.5964869,-72.8776013
+false,50.9105468,-1.4049018,41.5964869,-72.8776013
+true,50.9105468,-1.4049018,42.3600825,-71.0588801
+true,50.9105468,-1.4049018,42.3600825,-71.0588801
+true,50.9105468,-1.4049018,45.515232,-122.6783853
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,41.8781136,-87.6297982
+false,50.9105468,-1.4049018,59.3293235,18.0685808
+false,49.6338979,-1.622224,59.3293235,18.0685808
+true,50.9105468,-1.4049018,48.856614,2.3522219
+true,50.9105468,-1.4049018,48.856614,2.3522219
+true,50.9105468,-1.4049018,42.1014831,-72.589811
+false,50.9105468,-1.4049018,42.2528649,-73.790959
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,38.6270025,-90.1994042
+true,50.9105468,-1.4049018,42.0834335,-71.0183787
+true,49.6338979,-1.622224,48.856614,2.3522219
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,45.5016889,-73.567256
+true,49.6338979,-1.622224,49.2827291,-123.1207375
+false,50.9105468,-1.4049018,42.2994848,-71.0648529
+false,50.9105468,-1.4049018,39.9525839,-75.1652215
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,42.0334341,-70.9592096
+false,-45.0301511,168.6615141,43.7730448,-88.4470508
+false,-45.0301511,168.6615141,44.5133188,-88.0132958
+true,-45.0301511,168.6615141,43.7730448,-88.4470508
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,45.5016889,-73.567256
+false,50.9105468,-1.4049018,38.9071923,-77.0368707
+false,49.6338979,-1.622224,40.6781784,-73.9441579
+false,49.6338979,-1.622224,42.4473497,-71.2271531
+true,49.6338979,-1.622224,42.4473497,-71.2271531
+true,49.6338979,-1.622224,42.4473497,-71.2271531
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,50.6938479,-1.304734
+true,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,41.8239891,-71.4128343
+true,49.6338979,-1.622224,41.8239891,-71.4128343
+false,49.6338979,-1.622224,23.1135925,-82.3665956
+false,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,51.39401,-0.302662
+false,50.9105468,-1.4049018,45.5016889,-73.567256
+false,50.9105468,-1.4049018,51.467121,-0.329003
+false,50.9105468,-1.4049018,51.467121,-0.329003
+true,49.6338979,-1.622224,40.4167754,-3.7037902
+false,49.6338979,-1.622224,40.4167754,-3.7037902
+true,50.9105468,-1.4049018,43.653226,-79.3831843
+true,50.9105468,-1.4049018,42.2625932,-71.8022934
+false,49.6338979,-1.622224,40.058403,-75.1894155
+true,50.9105468,-1.4049018,51.9244201,4.4777325
+false,50.9105468,-1.4049018,48.856614,2.3522219
+false,50.9105468,-1.4049018,38.6270025,-90.1994042
+true,50.9105468,-1.4049018,40.2205824,-74.759717
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,47.6062095,-122.3320708
+false,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,49.2827291,-123.1207375
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,49.6338979,-1.622224,40.0022406,-75.3208107
+true,49.6338979,-1.622224,40.0022406,-75.3208107
+true,49.6338979,-1.622224,40.0022406,-75.3208107
+true,49.6338979,-1.622224,40.0022406,-75.3208107
+false,49.6338979,-1.622224,40.0022406,-75.3208107
+true,50.9105468,-1.4049018,53.4807593,-2.2426305
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,38.6270025,-90.1994042
+true,50.9105468,-1.4049018,46.7866719,-92.1004852
+false,50.9105468,-1.4049018,46.7866719,-92.1004852
+true,49.6338979,-1.622224,47.5595986,7.5885761
+true,50.9105468,-1.4049018,41.6612104,-72.7795419
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,49.6338979,-1.622224,40.8754335,-73.1526623
+false,50.9105468,-1.4049018,38.4192496,-82.445154
+false,50.9105468,-1.4049018,51.4307467,-0.1294977
+false,50.9105468,-1.4049018,38.4192496,-82.445154
+true,50.9105468,-1.4049018,44.977753,-93.2650108
+true,50.9105468,-1.4049018,44.977753,-93.2650108
+true,49.6338979,-1.622224,41.2041676,-74.2003231
+true,49.6338979,-1.622224,41.2041676,-74.2003231
+true,49.6338979,-1.622224,41.2041676,-74.2003231
+true,49.6338979,-1.622224,48.856614,2.3522219
+false,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,47.5595986,7.5885761
+true,50.9105468,-1.4049018,51.4345523,-0.2003717
+false,49.6338979,-1.622224,40.735657,-74.1723667
+true,49.6338979,-1.622224,40.735657,-74.1723667
+true,49.6338979,-1.622224,40.0022406,-75.3208107
+true,49.6338979,-1.622224,38.809803,-82.2023691
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,39.8915022,-75.0376707
+false,50.9105468,-1.4049018,40.6781784,-73.9441579
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,49.6338979,-1.622224,40.0022406,-75.3208107
+false,49.6338979,-1.622224,40.0022406,-75.3208107
+true,49.6338979,-1.622224,40.0022406,-75.3208107
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,42.6525793,-73.7562317
+true,49.6338979,-1.622224,19.4326077,-99.133208
+false,50.9105468,-1.4049018,40.6781784,-73.9441579
+false,50.9105468,-1.4049018,40.767323,-74.2048677
+true,49.6338979,-1.622224,45.515232,-122.6783853
+false,49.6338979,-1.622224,45.515232,-122.6783853
+true,50.9105468,-1.4049018,40.742857,-111.8770849
+false,50.9105468,-1.4049018,43.9140162,-69.9669961
+false,50.9105468,-1.4049018,43.9140162,-69.9669961
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,41.0997803,-80.6495194
+true,50.9105468,-1.4049018,41.0997803,-80.6495194
+false,50.9105468,-1.4049018,41.0997803,-80.6495194
+true,49.6338979,-1.622224,40.0697037,-75.1253492
+false,49.6338979,-1.622224,40.0697037,-75.1253492
+false,49.6338979,-1.622224,40.0697037,-75.1253492
+true,50.9105468,-1.4049018,46.7866719,-92.1004852
+true,49.6338979,-1.622224,46.2043907,6.1431577
+false,49.6338979,-1.622224,46.2043907,6.1431577
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,44.6487635,-63.5752387
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,43.2859075,-75.0844757
+false,49.6338979,-1.622224,43.2859075,-75.0844757
+true,50.9105468,-1.4049018,40.0230237,-75.3151772
+false,50.9105468,-1.4049018,-34.6036844,-58.3815591
+false,50.9105468,-1.4049018,47.1211331,-88.5694182
+false,50.9105468,-1.4049018,52.282316,-1.584927
+false,50.9105468,-1.4049018,52.282316,-1.584927
+true,50.9105468,-1.4049018,40.0583238,-74.4056612
+false,50.9105468,-1.4049018,50.118798,-5.537592
+false,50.9105468,-1.4049018,49.4481982,-2.58949
+false,50.9105468,-1.4049018,51.47341767,-2.367693177
+true,50.9105468,-1.4049018,41.9584457,-70.6672621
+false,50.9105468,-1.4049018,30.3321838,-81.655651
+false,50.9105468,-1.4049018,52.6292567,1.2978802
+true,50.9105468,-1.4049018,52.6292567,1.2978802
+true,50.9105468,-1.4049018,52.3555177,-1.1743197
+false,50.9105468,-1.4049018,16.3066525,80.4365402
+true,50.9105468,-1.4049018,16.3066525,80.4365402
+true,50.9105468,-1.4049018,16.3066525,80.4365402
+true,50.9105468,-1.4049018,16.3066525,80.4365402
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,43.1565779,-77.6088465
+true,50.9105468,-1.4049018,50.2083858,-5.4908864
+false,50.9105468,-1.4049018,42.0897965,-76.8077338
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,32.9981657,-104.3666291
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,-33.9248685,18.4240553
+true,50.9105468,-1.4049018,-33.9248685,18.4240553
+false,50.9105468,-1.4049018,-33.9248685,18.4240553
+true,50.9105468,-1.4049018,58.3860128,13.4393282
+true,50.9105468,-1.4049018,58.3860128,13.4393282
+false,50.9105468,-1.4049018,51.340402,0.731596
+true,50.9105468,-1.4049018,50.783565,-1.085559
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,13.7563309,100.5017651
+true,50.9105468,-1.4049018,13.7563309,100.5017651
+true,50.9105468,-1.4049018,13.7563309,100.5017651
+true,50.9105468,-1.4049018,40.9487097,-73.7326309
+true,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,50.2083858,-5.4908864
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,40.8447819,-73.8648268
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,52.3555177,-1.1743197
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,52.342135,-0.158572
+false,50.9105468,-1.4049018,60.1698557,24.938379
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,50.970764,-1.335819
+true,50.9105468,-1.4049018,50.970764,-1.335819
+false,50.9105468,-1.4049018,50.970764,-1.335819
+true,50.9105468,-1.4049018,41.2033216,-77.1945247
+true,50.9105468,-1.4049018,40.2338438,-111.6585337
+false,50.9105468,-1.4049018,40.45027,-80.0508164
+false,50.9105468,-1.4049018,50.118798,-5.537592
+false,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,50.2083858,-5.4908864
+true,50.9105468,-1.4049018,50.872559,-1.5768
+false,50.9105468,-1.4049018,50.2083858,-5.4908864
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,39.399872,-8.224454
+false,49.6338979,-1.622224,43.8429197,10.5026977
+false,49.6338979,-1.622224,43.8429197,10.5026977
+true,50.9105468,-1.4049018,49.4481982,-2.58949
+false,50.9105468,-1.4049018,50.8758752,-1.6327718
+false,50.9105468,-1.4049018,50.9105468,-1.4049018
+true,50.9105468,-1.4049018,50.9105468,-1.4049018
+true,50.9105468,-1.4049018,43.2264486,-78.0266826
+false,50.9105468,-1.4049018,41.1034326,-72.3592501
+true,50.9105468,-1.4049018,41.1034326,-72.3592501
+false,50.9105468,-1.4049018,41.1034326,-72.3592501
+true,49.6338979,-1.622224,41.3873974,2.168568
+true,49.6338979,-1.622224,41.3873974,2.168568
+true,50.9105468,-1.4049018,52.3555177,-1.1743197
+false,50.9105468,-1.4049018,57.70887,11.97456
+false,50.9105468,-1.4049018,40.6687141,-74.1143091
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,43.1565779,-77.6088465
+false,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,22.0116665,82.5752601
+false,50.9105468,-1.4049018,53.4083714,-2.9915726
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,40.6781784,-73.9441579
+true,50.9105468,-1.4049018,53.4083714,-2.9915726
+false,50.9105468,-1.4049018,49.4481982,-2.58949
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,51.4898621,-0.2070008
+false,50.9105468,-1.4049018,51.4284337,-2.8280061
+false,50.9105468,-1.4049018,49.2827291,-123.1207375
+false,50.9105468,-1.4049018,40.8447819,-73.8648268
+false,50.9105468,-1.4049018,42.9317335,-76.5660529
+false,50.9105468,-1.4049018,42.331427,-83.0457538
+true,50.9105468,-1.4049018,42.331427,-83.0457538
+true,50.9105468,-1.4049018,47.6062095,-122.3320708
+false,50.9105468,-1.4049018,51.4671373,-0.0907882
+true,50.9105468,-1.4049018,51.4671373,-0.0907882
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,51.5901769,-0.0173437
+false,50.9105468,-1.4049018,51.556619,0.076251
+true,50.9105468,-1.4049018,51.556619,0.076251
+false,50.9105468,-1.4049018,51.556619,0.076251
+true,50.9105468,-1.4049018,51.105097,-2.9262307
+true,50.9105468,-1.4049018,51.105097,-2.9262307
+true,50.9105468,-1.4049018,51.105097,-2.9262307
+false,50.9105468,-1.4049018,51.105097,-2.9262307
+true,50.9105468,-1.4049018,20.593684,78.96288
+true,50.9105468,-1.4049018,51.5490183,-0.1971205
+false,50.9105468,-1.4049018,51.5490183,-0.1971205
+false,50.9105468,-1.4049018,51.5490183,-0.1971205
+false,50.9105468,-1.4049018,62.7643378,29.8474185
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,50.3727074,-4.1759219
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.9105468,-1.4049018
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,50.8758752,-1.6327718
+false,50.9105468,-1.4049018,35.6761919,139.6503106
+true,50.9105468,-1.4049018,51.5583777,-1.7809759
+false,50.9105468,-1.4049018,51.5583777,-1.7809759
+false,50.9105468,-1.4049018,39.9525839,-75.1652215
+false,50.9105468,-1.4049018,49.4481982,-2.58949
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,52.635799,-1.09592
+false,50.9105468,-1.4049018,49.4481982,-2.58949
+false,50.9105468,-1.4049018,49.4481982,-2.58949
+false,50.9105468,-1.4049018,50.2083858,-5.4908864
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,55.755826,37.6173
+false,50.9105468,-1.4049018,55.755826,37.6173
+true,50.9105468,-1.4049018,20.593684,78.96288
+false,-45.0301511,168.6615141,40.2731911,-76.8867008
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,-45.0301511,168.6615141,55.864237,-4.251806
+false,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,60.128161,18.643501
+false,50.9105468,-1.4049018,44.977753,-93.2650108
+false,50.9105468,-1.4049018,44.977753,-93.2650108
+false,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,48.856614,2.3522219
+false,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,46.9479739,7.4474468
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,41.8781136,-87.6297982
+true,49.6338979,-1.622224,45.5016889,-73.567256
+false,50.9105468,-1.4049018,51.345606,-2.9612624
+false,50.9105468,-1.4049018,51.345606,-2.9612624
+true,50.9105468,-1.4049018,50.9105468,-1.4049018
+false,49.6338979,-1.622224,48.856614,2.3522219
+false,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,48.856614,2.3522219
+false,49.6338979,-1.622224,48.856614,2.3522219
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,50.3403779,-4.7834252
+false,50.9105468,-1.4049018,51.345606,-2.9612624
+false,50.9105468,-1.4049018,-33.8688197,151.2092955
+false,50.9105468,-1.4049018,42.974536,-82.4065901
+false,50.9105468,-1.4049018,43.1565779,-77.6088465
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,51.4869429,-0.170037
+true,50.9105468,-1.4049018,51.5706321,-0.3396363
+false,50.9105468,-1.4049018,55.6760968,12.5683371
+false,50.9105468,-1.4049018,49.4481982,-2.58949
+false,50.9105468,-1.4049018,42.2625932,-71.8022934
+false,50.9105468,-1.4049018,38.2009055,-84.8732835
+false,50.9105468,-1.4049018,52.343264,1.502642
+false,-45.0301511,168.6615141,42.3736158,-71.1097335
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,43.7101728,7.2619532
+true,50.9105468,-1.4049018,43.7101728,7.2619532
+true,50.9105468,-1.4049018,43.7101728,7.2619532
+false,50.9105468,-1.4049018,42.3600825,-71.0588801
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,50.9105468,-1.4049018,55.864237,-4.251806
+false,49.6338979,-1.622224,50.937531,6.9602786
+true,50.9105468,-1.4049018,51.081397,1.169456
+true,50.9105468,-1.4049018,41.3614401,-81.812912
+false,50.9105468,-1.4049018,51.6452225,-0.0486373
+true,49.6338979,-1.622224,40.463667,-3.74922
+true,50.9105468,-1.4049018,43.2557206,-79.8711024
+false,49.6338979,-1.622224,40.463667,-3.74922
+true,50.9105468,-1.4049018,49.44598,-2.5748838
+false,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,38.0721662,-84.7315563
+true,50.9105468,-1.4049018,50.5243156,-4.2135524
+false,50.9105468,-1.4049018,51.205163,-4.126762
+true,50.9105468,-1.4049018,52.193636,-2.221575
+true,50.9105468,-1.4049018,51.205163,-4.126762
+false,50.9105468,-1.4049018,61.52401,105.318756
+true,50.9105468,-1.4049018,56.26392,9.501785
+false,49.6338979,-1.622224,42.8353619,-71.6489836
+true,49.6338979,-1.622224,48.856614,2.3522219
+false,50.9105468,-1.4049018,50.3754565,-4.1426565
+true,50.9105468,-1.4049018,50.3754565,-4.1426565
+true,50.9105468,-1.4049018,50.3754565,-4.1426565
+true,50.9105468,-1.4049018,50.8226288,-0.137047
+false,50.9105468,-1.4049018,40.6639916,-74.2107006
+false,50.9105468,-1.4049018,40.6639916,-74.2107006
+true,50.9105468,-1.4049018,40.463667,-3.74922
+true,49.6338979,-1.622224,48.856614,2.3522219
+false,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,49.4481982,-2.58949
+true,50.9105468,-1.4049018,40.735657,-74.1723667
+false,50.9105468,-1.4049018,53.4083714,-2.9915726
+false,50.9105468,-1.4049018,51.5872715,-0.1103806
+false,50.9105468,-1.4049018,46.3990941,-112.7383721
+true,50.9105468,-1.4049018,61.92411,25.748151
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,61.92411,25.748151
+true,50.9105468,-1.4049018,46.5136494,-84.3357526
+false,-45.0301511,168.6615141,44.6487635,-63.5752387
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+false,49.6338979,-1.622224,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,51.4453954,-0.0160913
+false,50.9105468,-1.4049018,51.105097,-2.9262307
+false,50.9105468,-1.4049018,39.768403,-86.158068
+false,50.9105468,-1.4049018,39.9611755,-82.9987942
+true,50.9105468,-1.4049018,51.3781018,-2.3596827
+true,50.9105468,-1.4049018,50.3754565,-4.1426565
+false,50.9105468,-1.4049018,50.3754565,-4.1426565
+false,50.9105468,-1.4049018,44.1608357,-72.4483907
+false,50.9105468,-1.4049018,40.9487097,-73.7326309
+true,50.9105468,-1.4049018,51.454513,-2.58791
+false,50.9105468,-1.4049018,51.454513,-2.58791
+true,50.9105468,-1.4049018,54.597285,-5.93012
+false,50.9105468,-1.4049018,57.1498891,-2.0937528
+true,50.9105468,-1.4049018,57.1498891,-2.0937528
+true,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,52.335589,-2.061906
+false,50.9105468,-1.4049018,52.335589,-2.061906
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.2660471,-5.0527125
+true,50.9105468,-1.4049018,50.7220101,-1.8667169
+true,50.9105468,-1.4049018,50.7220101,-1.8667169
+true,50.9105468,-1.4049018,50.7220101,-1.8667169
+false,50.9105468,-1.4049018,50.7220101,-1.8667169
+true,50.9105468,-1.4049018,49.4481982,-2.58949
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+true,50.9105468,-1.4049018,51.580559,-0.341995
+true,50.9105468,-1.4049018,50.942061,-2.633308
+true,50.9105468,-1.4049018,48.856614,2.3522219
+false,50.9105468,-1.4049018,41.8137116,-71.3700545
+false,50.9105468,-1.4049018,41.8137116,-71.3700545
+false,50.9105468,-1.4049018,41.8137116,-71.3700545
+true,50.9105468,-1.4049018,34.0522342,-118.2436849
+true,50.9105468,-1.4049018,45.3888403,-102.3224308
+true,50.9105468,-1.4049018,60.0203179,22.5050803
+true,49.6338979,-1.622224,40.3014581,-79.5389289
+true,50.9105468,-1.4049018,40.6781784,-73.9441579
+false,50.9105468,-1.4049018,50.7220101,-1.8667169
+false,50.9105468,-1.4049018,47.004125,-94.7269509
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,49.6338979,-1.622224,38.3031837,-77.4605399
+true,50.9105468,-1.4049018,52.3555177,-1.1743197
+false,50.9105468,-1.4049018,46.1878841,-123.8312534
+false,50.9105468,-1.4049018,-38.416097,-63.616672
+false,50.9105468,-1.4049018,52.5219314,-1.8446106
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,60.3912628,5.3220544
+true,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,44.2444473,-86.324253
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+true,50.9105468,-1.4049018,41.7658043,-72.6733723
+false,50.9105468,-1.4049018,49.8954221,-97.1385145
+false,50.9105468,-1.4049018,41.8781136,-87.6297982
+false,50.9105468,-1.4049018,41.8087849,-87.6711242
+false,50.9105468,-1.4049018,46.8821272,8.6428436
+false,50.9105468,-1.4049018,46.8821272,8.6428436
+false,50.9105468,-1.4049018,41.525031,-88.0817251
+false,50.9105468,-1.4049018,42.2625932,-71.8022934
+false,50.9105468,-1.4049018,42.2625932,-71.8022934
+false,50.9105468,-1.4049018,42.2625932,-71.8022934
+true,50.9105468,-1.4049018,42.2625932,-71.8022934
+false,50.9105468,-1.4049018,42.2625932,-71.8022934
+true,50.9105468,-1.4049018,42.2625932,-71.8022934
+false,50.9105468,-1.4049018,44.977753,-93.2650108
+true,50.9105468,-1.4049018,42.2625932,-71.8022934
+true,49.6338979,-1.622224,45.4215296,-75.6971931
+true,49.6338979,-1.622224,45.4215296,-75.6971931
+false,49.6338979,-1.622224,45.4215296,-75.6971931
+false,50.9105468,-1.4049018,40.4842027,-88.9936873
+false,49.6338979,-1.622224,41.0997803,-80.6495194
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,49.6338979,-1.622224,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,42.947011,-76.4291017
+true,49.6338979,-1.622224,45.4321908,-75.6865443
+false,49.6338979,-1.622224,45.4321908,-75.6865443
+false,-45.0301511,168.6615141,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+false,50.9105468,-1.4049018,57.6977778,11.6172222
+false,50.9105468,-1.4049018,61.92411,25.748151
+false,49.6338979,-1.622224,34.802075,38.996815
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,43.2084024,-74.9521005
+false,50.9105468,-1.4049018,59.3293235,18.0685808
+false,50.9105468,-1.4049018,41.8087849,-87.6711242
+false,49.6338979,-1.622224,34.802075,38.996815
+false,49.6338979,-1.622224,34.802075,38.996815
+false,49.6338979,-1.622224,34.802075,38.996815
+false,49.6338979,-1.622224,34.802075,38.996815
+false,-45.0301511,168.6615141,41.8865252,-87.6306005
+false,-45.0301511,168.6615141,41.8865252,-87.6306005
+false,-45.0301511,168.6615141,41.8865252,-87.6306005
+false,50.9105468,-1.4049018,51.4936967,-3.1816888
+false,-45.0301511,168.6615141,52.1857188,-9.2422452
+true,50.9105468,-1.4049018,41.8781136,-87.6297982
+false,50.9105468,-1.4049018,50.7990322,-4.4549877
+false,50.9105468,-1.4049018,50.7990322,-4.4549877
+false,50.9105468,-1.4049018,42.2625932,-71.8022934
+false,50.9105468,-1.4049018,51.76581,0.472056
+false,-45.0301511,168.6615141,42.3125672,-71.0898796
+false,-45.0301511,168.6615141,52.1857188,-9.2422452
+true,-45.0301511,168.6615141,42.3786556,-71.0615977
+false,-45.0301511,168.6615141,40.7369435,-73.886567
+false,50.9105468,-1.4049018,45.1,15.2
+false,-45.0301511,168.6615141,39.9525839,-75.1652215
+false,49.6338979,-1.622224,45.4215296,-75.6971931
+false,49.6338979,-1.622224,45.4215296,-75.6971931
+false,50.9105468,-1.4049018,57.0644894,12.485029
+false,50.9105468,-1.4049018,57.70887,11.97456
+false,-45.0301511,168.6615141,40.7369435,-73.886567
+true,-45.0301511,168.6615141,41.7658043,-72.6733723
+false,50.9105468,-1.4049018,50.9239597,-1.3874204
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,-45.0301511,168.6615141,40.7369435,-73.886567
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,49.6338979,-1.622224,39.074208,21.824312
+false,49.6338979,-1.622224,39.074208,21.824312
+false,50.9105468,-1.4049018,39.399872,-8.224454
+false,50.9105468,-1.4049018,40.6927443,-73.9912989
+true,-45.0301511,168.6615141,45.4041718,-71.8929107
+false,50.9105468,-1.4049018,41.8087849,-87.6711242
+false,-45.0301511,168.6615141,39.9525839,-75.1652215
+false,-45.0301511,168.6615141,40.6781784,-73.9441579
+false,-45.0301511,168.6615141,53.1423672,-7.6920536
+true,-45.0301511,168.6615141,53.1423672,-7.6920536
+false,50.9105468,-1.4049018,47.516231,14.550072
+false,50.9105468,-1.4049018,47.516231,14.550072
+false,50.9105468,-1.4049018,47.516231,14.550072
+false,50.9105468,-1.4049018,51.5072178,-0.1275862
+false,50.9105468,-1.4049018,40.6781784,-73.9441579
+true,50.9105468,-1.4049018,40.6781784,-73.9441579
+true,50.9105468,-1.4049018,40.6781784,-73.9441579
+true,50.9105468,-1.4049018,45.1805223,-89.683459
+false,50.9105468,-1.4049018,41.49932,-81.6943605
+false,50.9105468,-1.4049018,50.7220101,-1.8667169
+true,50.9105468,-1.4049018,50.7220101,-1.8667169
+false,50.9105468,-1.4049018,47.516231,14.550072
+false,50.9105468,-1.4049018,46.7605329,-97.7903815
+true,50.9105468,-1.4049018,58.9742317,17.9637379
+false,50.9105468,-1.4049018,47.516231,14.550072
+false,-45.0301511,168.6615141,40.7369435,-73.886567
+true,-45.0301511,168.6615141,40.7369435,-73.886567
+true,50.9105468,-1.4049018,40.9777689,-95.1016534
+false,50.9105468,-1.4049018,40.9777689,-95.1016534
+false,50.9105468,-1.4049018,40.9777689,-95.1016534
+false,50.9105468,-1.4049018,41.8087849,-87.6711242
+false,50.9105468,-1.4049018,41.8087849,-87.6711242
+false,50.9105468,-1.4049018,42.6389216,-83.2910468
+false,50.9105468,-1.4049018,42.6389216,-83.2910468
+false,50.9105468,-1.4049018,42.6389216,-83.2910468
+false,50.9105468,-1.4049018,53.4083714,-2.9915726
+false,50.9105468,-1.4049018,53.4083714,-2.9915726
+true,50.9105468,-1.4049018,48.3047384,-106.8270002
+true,50.9105468,-1.4049018,48.3047384,-106.8270002
+true,50.9105468,-1.4049018,42.331427,-83.0457538
+false,50.9105468,-1.4049018,37.6871761,-97.330053
+true,50.9105468,-1.4049018,37.6871761,-97.330053
+true,50.9105468,-1.4049018,37.6871761,-97.330053
+false,50.9105468,-1.4049018,37.6871761,-97.330053
+false,50.9105468,-1.4049018,41.8708192,-94.6774786
+false,-45.0301511,168.6615141,54.2260039,-8.5219485
+false,-45.0301511,168.6615141,40.7369435,-73.886567
+false,50.9105468,-1.4049018,41.2953126,-89.0595266
+true,50.9105468,-1.4049018,40.8673215,-74.5221011
+true,-45.0301511,168.6615141,40.7369435,-73.886567
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,49.6338979,-1.622224,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,52.3555177,-1.1743197
+true,50.9105468,-1.4049018,41.2705484,-72.9469711
+false,50.9105468,-1.4049018,41.2705484,-72.9469711
+true,50.9105468,-1.4049018,41.525031,-88.0817251
+false,50.9105468,-1.4049018,58.9574429,14.9558106
+false,50.9105468,-1.4049018,45.8563481,-96.9203579
+false,49.6338979,-1.622224,45.4321908,-75.6865443
+false,49.6338979,-1.622224,34.802075,38.996815
+false,50.9105468,-1.4049018,40.6331249,-89.3985283
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,-45.0301511,168.6615141,53.84885,-7.60445
+false,50.9105468,-1.4049018,39.9525839,-75.1652215
+false,-45.0301511,168.6615141,41.8865252,-87.6306005
+false,-45.0301511,168.6615141,53.1423672,-7.6920536
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+true,50.9105468,-1.4049018,51.046062,0.2194
+false,50.9105468,-1.4049018,51.046062,0.2194
+false,50.9105468,-1.4049018,51.127889,-3.003632
+false,50.9105468,-1.4049018,51.046062,0.2194
+false,50.9105468,-1.4049018,51.046062,0.2194
+false,50.9105468,-1.4049018,51.046062,0.2194
+false,-45.0301511,168.6615141,40.7369435,-73.886567
+false,-45.0301511,168.6615141,40.7127753,-74.0059728
+false,-45.0301511,168.6615141,40.7369435,-73.886567
+true,-45.0301511,168.6615141,52.904532,-8.9811351
+true,50.9105468,-1.4049018,51.3932587,0.475344
+true,50.9105468,-1.4049018,51.3932587,0.475344
+false,50.9105468,-1.4049018,39.9525839,-75.1652215
+false,50.9105468,-1.4049018,51.3932587,0.475344
+true,50.9105468,-1.4049018,39.399872,-8.224454
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,43.0962143,-79.0377388
+false,50.9105468,-1.4049018,51.232202,-0.332378
+false,50.9105468,-1.4049018,61.0722535,6.9342564
+false,50.9105468,-1.4049018,42.3636331,-87.8447938
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,40.7127753,-74.0059728
+false,50.9105468,-1.4049018,43.1726909,-77.9510209
+false,50.9105468,-1.4049018,46.4917317,-80.993029
+true,50.9105468,-1.4049018,59.9138688,10.7522454
+false,50.9105468,-1.4049018,51.2213404,4.4051485
